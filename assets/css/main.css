@@ -1824,7 +1824,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-facebook-f {
-					background-color: #3C5A98;
+					background-color: #2b459c;
 				}
 
 				ul.social li a.fa-dribbble {
@@ -2036,7 +2036,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #2a32aa;
 		text-align: center;
 		position: fixed;
 		left: 0;
