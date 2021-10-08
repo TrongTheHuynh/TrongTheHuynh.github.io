@@ -1639,7 +1639,6 @@ input, select, textarea {
 			box-shadow: 0 3px 10px rgb(0, 0, 0);
 			overflow: hidden;
 			border-left: 1px solid  rgba(87, 85, 85, 0.404);
-			margin-bottom: 12px;
 		}
 
 		.image.featured {
