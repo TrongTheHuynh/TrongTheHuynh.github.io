@@ -1994,7 +1994,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: url('images/bg4.jpg');
+			background-image: inherit;
 			background-color: #fff;
 		}
 
